@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS and remotesensing
 - 🌱 I’m currently learning python and C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lv001122@126.com
+- 📫 How to reach me lv001122@126.com or 201914030135@stu.sdnu.edu.cn
 
 <!---
 Dongdong001122/Dongdong001122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
